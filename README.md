@@ -1,5 +1,5 @@
 # PC Seed Finder and Extractor
-![screenshot](https://github.com/user-attachments/files/31704769/screen.bmp)
+![screenshot](https://github.com/user-attachments/files/31752074/default.bmp)
 PC Seed Finder and Extractor is a Windows utility for detecting MArchive seeds directly from supported PC game `.exe` files and extracting `alldata.psb.m` / `alldata.bin` with `MArchiveBatchTool.exe`.
 
 ## Features
